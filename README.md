@@ -1,2 +1,2 @@
 # BTA
-block chaibn practice
+block chain practice
